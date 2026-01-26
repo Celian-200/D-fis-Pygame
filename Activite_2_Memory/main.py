@@ -16,6 +16,9 @@ carte_largeur = 100
 carte_hauteur = 100
 emplacement_carte = 10
 
+
+
+
 while True :
     for event in pygame.event.get():
         if event.type == QUIT:
